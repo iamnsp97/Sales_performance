@@ -1,4 +1,4 @@
-*Project Description: Sales Performance Dashboard for Course Advertisement Analysis*
+#*Project Description: Sales Performance Dashboard for Course Advertisement Analysis*
 
 *Overview:*
 In this Excel project, I have developed a comprehensive sales performance dashboard that provides valuable insights into the effectiveness of different course advertisements run on various platforms, including Facebook, WhatsApp, Television ads, YouTube channels, and the company website. The dashboard analyzes key metrics such as the number of calls generated from the website, average call duration, and other relevant data. Additionally, to facilitate data exploration and visualization, various pivot tables and charts, including line charts, area charts, bar charts, pie charts, donut charts, and radar charts, have been incorporated.

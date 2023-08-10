@@ -1,5 +1,8 @@
 # Excel Sales Performance Dashboard
-*Project Description:Sales Performance Dashboard for Course Advertisement Analysis*
+*Project Description: Sales Performance Dashboard for Course Advertisement Analysis*
+
+![Sales Performance Matrics](https://github.com/iamnsp97/Sales_performance/assets/101618100/7c4797d2-cda8-46e2-9ee5-543364815f7f)
+
 
 *Overview:*
 In this Excel project, I have developed a comprehensive sales performance dashboard that provides valuable insights into the effectiveness of different course advertisements run on various platforms, including Facebook, WhatsApp, Television ads, YouTube channels, and the company website. The dashboard analyzes key metrics such as the number of calls generated from the website, average call duration, and other relevant data. Additionally, to facilitate data exploration and visualization, various pivot tables and charts, including line charts, area charts, bar charts, pie charts, donut charts, and radar charts, have been incorporated.

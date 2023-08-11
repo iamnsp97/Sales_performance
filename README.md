@@ -29,7 +29,7 @@ In this Excel project, I have developed a comprehensive sales performance dashbo
 
 - *Resource Allocation Efficiency:* By comparing advertisement performance across platforms, the dashboard helps allocate resources to the most successful advertising channels, optimizing the return on investment.
 
-- *Improved Customer Interaction:* The evaluation of average call duration facilitates the identification of courses with high customer engagement, enabling the development of better customer support strategies.
+- *Improved Customer Interaction:* The evaluation of average call Duration facilitates the identification of courses with high customer engagement, enabling the development of better customer support strategies.
 
 - *In-Depth Data Analysis:* The integration of pivot tables and diverse chart visualizations enhances data exploration and analysis, providing deeper insights into sales performance and customer behavior.
 

@@ -18,7 +18,7 @@ In this Excel project, I have developed a comprehensive sales performance dashbo
 
 5. *Diverse Chart Visualizations:* Various chart types have been implemented, such as line charts to track trends over time, area charts to visualize cumulative data, bar charts to compare performances, pie charts to display proportional distribution, donut charts for additional context, and radar charts to assess course attributes' relative strengths.
 
-6. *Real-Time Data Updates:* The dashboard accommodates real-time or periodic data imports, ensuring the most current information is available for analysis and decision-making.
+6. *Real-Time Data Updates:* The dashboard accommodate real-time or periodic data imports, ensuring the most current information is available for analysis and decision-making.
 
 7. *User-Friendly Interface:* The dashboard provides an intuitive and user-friendly interface, enabling users to interact with the data, adjust chart settings, and explore information per their preferences.
 
